@@ -30,3 +30,5 @@ The `REUSE` button will:
 
 
 ![img.png](after-reuse.png)
+
+![img.png](after-reuse-side-by-side.png)
